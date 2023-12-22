@@ -1,0 +1,1 @@
+Özür dilerim, ancak `maven-wrapper.jar` bir ikili dosyadır ve içeriği metin veya kod olarak sağlanamaz. Bu dosya, Maven Wrapper tarafından kullanılır ve genellikle bir projenin kaynak kodu ile birlikte verilir. Bu dosyanın içeriği genellikle değiştirilmez veya elle oluşturulmaz. Bu dosya, Maven projesini oluşturmak için kullanılan belirli bir Maven sürümünü içerir.
